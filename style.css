@@ -59,7 +59,7 @@ header span {
 }
 
 .main-image {
-    width: 100%;
+    max-width: 728px;
 }
 
 .about-section {
